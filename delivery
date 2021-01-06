@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Gitara1</title>
+	<link rel="stylesheet" href="Style/main.css">
+</head>
+<body>
+	<header class="red_header">
+		<div class="container">
+			<div class="heading clearfix">
+				<img src="Img/guitar-logo-vector_22451-149.jpeg" width="100" alt="" class="logo_red">
+				<nav>
+					<ul class="menu">
+						<li><a href="index.html">Главная  </a></li>	
+						<li><a href="delivery">Доставка</a></li>	
+						<li><a href="box.html">Распродажа</a></li>
+						<li><a href="#">Под заказ </a></li>
+						<li><a href="#">О нас     </a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
